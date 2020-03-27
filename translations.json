@@ -1,0 +1,46 @@
+{
+  "invalid_tour": {
+    "ru": "Для текущей позиции невозможно смоделировать карту перемещений с учетом требований",
+    "en": "It's not possible to simulate knights tour four such start position"
+  },
+  "color": {
+    "help": {
+      "ru": "Цвет коня",
+      "en": "Knight color"
+    },
+    "choices": {
+      "en": [
+        "white",
+        "black"
+      ],
+      "ru": [
+        "черный",
+        "белый"
+      ]
+    }
+  },
+  "description": {
+    "ru": "Подсчет всех возможных ходов коня на шахматной доске",
+    "en": "Knight tour"
+  },
+  "header": {
+    "ru": "Конь находится на позиции {x}{y}. Координаты возможных ходов:",
+    "en": "Knight start position is {x}{y}. Knights tour:"
+  },
+  "position": {
+    "help": {
+      "ru": "Для какого коня выполнить подсчет (справа от короля или слева)",
+      "en": "Knight position (relative to king)"
+    },
+    "choices": {
+      "ru": [
+        "справа",
+        "слева"
+      ],
+      "en": [
+        "right",
+        "left"
+      ]
+    }
+  }
+}
